@@ -14,4 +14,4 @@ anti_jamming_RCRA.m为参考论文的抗干扰算法。
 
 由于本文代码是在ubuntu上的matlab写的，部分注释可能有点乱码，放到ubuntu上的matlab就不会了。
 
-最后，稍微链接一下题主的个人主页 https://love.lrting.top ，没错，应该没什么东西。不过以后应该学到的东西也会在上面记录一下。
+最后，稍微链接一下题主的个人主页 https://lrting.top 
